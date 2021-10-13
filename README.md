@@ -1,1 +1,1 @@
-# Computer-Applications-Bokeh-Plots
+# Python-Applications-Bokeh-Plots
